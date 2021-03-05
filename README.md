@@ -8,4 +8,4 @@ lists the ingredients and quantities
 1. ingredients
 2. quantities
 ### recipe
-list how many and how to process
+list how many and how to process, contains the instructions for making dishes
